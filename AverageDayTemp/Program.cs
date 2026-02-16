@@ -53,6 +53,8 @@
 
             Console.WriteLine($"og den højeste temperatur er: {vejr[7]}");
 
+            //Eller
+            Console.WriteLine($"... {vejr[vejr.Length - 1]}");
         }
 
     }
